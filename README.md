@@ -23,8 +23,4 @@
     <p>
         Ensure you have the following installed on your machine:
     </p>
-<ul>
-        <li>Node.js</li>
-        <li>npm</li>
-        <li>MongoDB</li>
-    </ul>
+
