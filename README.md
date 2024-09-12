@@ -16,7 +16,7 @@
         <li><strong>Backend:</strong> Node.js, Express.js</li>
         <li><strong>Database:</strong> MongoDB</li>
         <li><strong>Authentication:</strong> JWT (JSON Web Tokens)</li>
-        <li><strong>Styling:</strong> CSS, Bootstrap</li>
+        <li><strong>Styling:</strong> Bootstrap</li>
     </ul>
  <h2>Getting Started</h2>
     <h3>Prerequisites</h3>
